@@ -18,3 +18,25 @@ To use this component in your React application:
 2. Incorporate the `FlavanoidsStatistics` component into your React project.
 3. Ensure that your dataset is structured appropriately and contains the necessary data fields, such as "Flavanoids" and "Class."
 4. Customize the component and data as needed to fit your specific use case.
+
+## Installation
+
+You can install this component in your project by following these steps:
+
+1. Clone the repository to your local machine:
+  
+2. Copy the `FlavanoidsStatistics.js` file into your React project.
+
+3. Import and use the `FlavanoidsStatistics` component in your React application.
+
+```jsx
+import FlavanoidsStatistics from './FlavanoidsStatistics';
+
+// ...
+
+return (
+<div>
+ <FlavanoidsStatistics />
+ {/* Your other React components */}
+</div>
+);
